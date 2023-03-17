@@ -1,2 +1,0 @@
-# connectors
-SOCIAL MEDIA CONNECTOR
